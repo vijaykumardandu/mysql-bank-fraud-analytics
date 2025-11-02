@@ -1,12 +1,8 @@
 -- Banking Transactions Fraud Analytics - schema
-CREATE DATABASE IF NOT EXISTS bank_fraud;
+CREATE DATABASE bank_fraud;
 USE bank_fraud;
 
-DROP TABLE IF EXISTS fraud_reports;
-DROP TABLE IF EXISTS transactions;
-DROP TABLE IF EXISTS accounts;
-DROP TABLE IF EXISTS customers;
-DROP TABLE IF EXISTS locations;
+
 
 CREATE TABLE locations (
     location_id INT PRIMARY KEY,
