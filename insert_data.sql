@@ -1,5 +1,5 @@
 -- Insert data for bank_fraud schema
-USE bank_fraud;
+
 INSERT INTO locations VALUES (1, 'Mumbai', 'India');
 INSERT INTO locations VALUES (2, 'Delhi', 'India');
 INSERT INTO locations VALUES (3, 'Bengaluru', 'India');
