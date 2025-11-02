@@ -10,7 +10,7 @@ This project simulates a banking system and provides SQL-based insights such as:
 
  1. Fraud detection
  2. High-risk customers & locations
- 3. ransaction patterns
+ 3. Transaction patterns
  4. Revenue analysis
  5. Data modelling (ERD + schema)
 
