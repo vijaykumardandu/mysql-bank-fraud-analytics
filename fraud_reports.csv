@@ -1,0 +1,26 @@
+fraud_id,transaction_id,fraud_type,report_time
+9001,50432,suspicious_login,2023-02-04 15:49:08
+9002,50049,unauthorized_transfer,2024-02-06 01:52:28
+9003,50177,account_takeover,2024-02-25 06:58:12
+9004,50051,velocity_fraud,2023-07-20 00:09:45
+9005,50433,unauthorized_transfer,2024-03-05 05:37:31
+9006,50434,unauthorized_transfer,2023-11-03 20:12:07
+9007,50180,suspicious_login,2023-09-18 14:49:07
+9008,50442,card_present_fraud,2024-02-16 23:42:13
+9009,50061,card_present_fraud,2024-01-12 02:46:03
+9010,50445,velocity_fraud,2023-12-10 08:04:05
+9011,50195,velocity_fraud,2024-09-20 12:59:31
+9012,50452,velocity_fraud,2023-03-01 14:07:27
+9013,50325,unauthorized_transfer,2023-07-13 03:18:44
+9014,50453,unauthorized_transfer,2023-03-24 02:02:03
+9015,50073,card_present_fraud,2024-03-05 10:14:18
+9016,50207,card_present_fraud,2024-04-13 18:30:29
+9017,50463,card_present_fraud,2024-07-14 23:29:52
+9018,50082,account_takeover,2023-03-07 00:31:15
+9019,50467,suspicious_login,2024-03-10 23:17:58
+9020,50340,suspicious_login,2024-01-25 10:50:16
+9021,50342,account_takeover,2024-04-04 18:03:32
+9022,50091,velocity_fraud,2023-07-15 13:34:31
+9023,50094,suspicious_login,2024-06-30 16:34:09
+9024,50352,suspicious_login,2024-01-28 11:02:05
+9025,50102,account_takeover,2024-05-01 05:47:15

@@ -1,0 +1,21 @@
+customer_id,full_name,email,phone,city
+1,Aarav Sharma,aarav.sharma@example.com,9659634898,Kolkata
+2,Vivaan Verma,vivaan.verma@example.com,9683083054,Pune
+3,Reyansh Patel,reyansh.patel@example.com,9287572291,Delhi
+4,Aditya Singh,aditya.singh@example.com,9122536722,Kolkata
+5,Vihaan Kumar,vihaan.kumar@example.com,9423448305,Hyderabad
+6,Arjun Reddy,arjun.reddy@example.com,9915702892,Hyderabad
+7,Ishaan Nair,ishaan.nair@example.com,9707875870,Hyderabad
+8,Krishna Gupta,krishna.gupta@example.com,9926815658,Chennai
+9,Sai Mehta,sai.mehta@example.com,9108887037,Kolkata
+10,Ananya Jain,ananya.jain@example.com,9289417497,Ahmedabad
+11,Diya Kapoor,diya.kapoor@example.com,9866594463,Kolkata
+12,Aisha Shah,aisha.shah@example.com,9919554835,Lucknow
+13,Sanya Khan,sanya.khan@example.com,9536726801,Pune
+14,Meera Agarwal,meera.agarwal@example.com,9960223220,Mumbai
+15,Neha Desai,neha.desai@example.com,9898520889,Hyderabad
+16,Pooja Chopra,pooja.chopra@example.com,9966824248,Kolkata
+17,Kavya Saxena,kavya.saxena@example.com,9888398371,Lucknow
+18,Rohit Joshi,rohit.joshi@example.com,9247280328,Pune
+19,Siddharth Nanda,siddharth.nanda@example.com,9428358907,Delhi
+20,Priya Bhat,priya.bhat@example.com,9606395584,Jaipur
