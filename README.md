@@ -26,20 +26,6 @@ This project simulates a banking system and provides SQL-based insights such as:
 - Data Cleaning & Aggregation
 - CSV-based sample datasets
 
-# 📂 Project Structure
-
-📁 mysql-bank-fraud-analytics
-│
-├── create_tables.sql
-├── insert_data.sql
-├── analysis_queries.sql
-├── ER_Diagram.png
-│
-├── customers.csv
-├── accounts.csv
-├── transactions.csv
-├── locations.csv
-└── fraud_reports.csv
 
 
 ## 🚀 How to Run
